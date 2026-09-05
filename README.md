@@ -15,4 +15,5 @@
 * **Simply copy the PixelArt class into your existing Pygame project. No pip installation or extra dependencies are required beyond standard Pygame.
 
 
+<img width="314" height="243" alt="image" src="https://github.com/user-attachments/assets/fc4d32ff-de4d-4cac-a473-1b8c48c38877" />
 
